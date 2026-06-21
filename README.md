@@ -1,4 +1,6 @@
 **Exploratory Data Analysis for PaisaBazaar Banking Fraud Analysis**
+
+
 The Paisabazaar Banking Fraud Analysis project focuses on exploring and analyzing banking customer data to identify patterns, trends, and potential indicators associated with fraudulent activities. With the increasing adoption of digital banking and online financial services, fraud detection has become a critical concern for financial institutions. The primary objective of this project is to perform Exploratory Data Analysis (EDA) on the dataset to gain meaningful insights into customer behavior, transaction patterns, and risk-related factors that may contribute to fraudulent activities.
 
 The project began with a data understanding and data wrangling phase. The dataset was examined to understand its structure, dimensions, data types, and overall quality. Missing values, hidden missing values, and duplicate records were checked to ensure the reliability of the analysis. Since the dataset was found to be clean and well-structured, minimal preprocessing was required before proceeding with the exploratory analysis.
